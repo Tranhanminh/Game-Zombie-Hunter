@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 075241f81bff69f4eafd7945e1d811e4
+timeCreated: 1615893537
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape:
+    - - {x: -54, y: -184}
+      - {x: -65, y: -181}
+      - {x: -48, y: -163}
+      - {x: -45, y: -152}
+      - {x: -35, y: -149}
+      - {x: -22, y: -150}
+      - {x: -26, y: -161}
+      - {x: -25, y: -181}
+      - {x: -28, y: -193}
+      - {x: -28, y: -202}
+      - {x: -27, y: -207}
+      - {x: -23, y: -209}
+      - {x: 25, y: -209}
+      - {x: 31, y: -208}
+      - {x: 26, y: -191}
+      - {x: 17, y: -184}
+      - {x: 1, y: -176}
+      - {x: 3, y: -162}
+      - {x: 15, y: -161}
+      - {x: 18, y: -154}
+      - {x: 18, y: -141}
+      - {x: 28, y: -127}
+      - {x: 38, y: -107}
+      - {x: 56, y: -87}
+      - {x: 70, y: -87}
+      - {x: 75, y: -85}
+      - {x: 84, y: -87}
+      - {x: 122, y: -112}
+      - {x: 126, y: -113}
+      - {x: 142, y: -96}
+      - {x: 161, y: -73}
+      - {x: 181, y: -46}
+      - {x: 196, y: -24}
+      - {x: 215, y: 6}
+      - {x: 215, y: 11}
+      - {x: 201, y: 22}
+      - {x: 145, y: 60}
+      - {x: 138, y: 63}
+      - {x: 138, y: 106}
+      - {x: 136, y: 110}
+      - {x: 118, y: 123}
+      - {x: 122, y: 131}
+      - {x: 124, y: 144}
+      - {x: 113, y: 157}
+      - {x: 78, y: 180}
+      - {x: 51, y: 192}
+      - {x: 33, y: 197}
+      - {x: -2, y: 197}
+      - {x: -20, y: 191}
+      - {x: -40, y: 182}
+      - {x: -58, y: 168}
+      - {x: -70, y: 172}
+      - {x: -76, y: 170}
+      - {x: -77, y: 146}
+      - {x: -89, y: 146}
+      - {x: -97, y: 143}
+      - {x: -103, y: 137}
+      - {x: -102, y: 134}
+      - {x: -93, y: 133}
+      - {x: -89, y: 127}
+      - {x: -97, y: 119}
+      - {x: -104, y: 101}
+      - {x: -104, y: 70}
+      - {x: -103, y: 44}
+      - {x: -99, y: 30}
+      - {x: -93, y: 19}
+      - {x: -76, y: 1}
+      - {x: -75, y: -5}
+      - {x: -68, y: -21}
+      - {x: -76, y: -28}
+      - {x: -86, y: -47}
+      - {x: -96, y: -82}
+      - {x: -103, y: -104}
+      - {x: -96, y: -114}
+      - {x: -88, y: -118}
+      - {x: -87, y: -149}
+      - {x: -82, y: -152}
+      - {x: -82, y: -159}
+      - {x: -86, y: -164}
+      - {x: -92, y: -174}
+      - {x: -99, y: -194}
+      - {x: -98, y: -205}
+      - {x: -94, y: -210}
+      - {x: -45, y: -210}
+      - {x: -42, y: -207}
+      - {x: -41, y: -202}
+      - {x: -47, y: -190}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
